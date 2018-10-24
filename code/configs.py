@@ -1,0 +1,11 @@
+PATH_TO_DEPTHS = "/home/ivb/data2/TGS/data/depths.csv"
+PATH_TO_TRAIN = "/home/ivb/data2/TGS/data/train"
+PATH_TO_TEST = "/home/ivb/data2/TGS/data/test"
+PATH_TO_RANDOM_CV = "/home/ivb/data2/TGS/data/cv/random_5_folds/"
+PATH_TO_DEPTH_CV = "/home/ivb/data2/TGS/data/cv/depth_5_folds/"
+PATH_TO_SALT_CV = "/home/ivb/data2/TGS/data/cv/saltcov_5_folds/"
+PATH_TO_PAIRS = "/home/ivb/data2/TGS/data/pairs.csv"
+
+PATH_TO_RESNET152 = "/home/ivb/data2/TGS/weights/resnet152-b121ed2d.pth"
+PATH_TO_RESNET50 = "/home/ivb/data2/TGS/weights/resnet50-19c8e357.pth"
+PATH_TO_RESNET34 = "/home/ivb/data2/TGS/weights/resnet34-333f7ec4.pth"
